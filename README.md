@@ -61,5 +61,3 @@ All simulations are performed in **LTspice**, and manual calculations were used 
 
 ---
 
-## 📜 License
-This project is for academic purposes. No commercial use permitted without explicit permission.
